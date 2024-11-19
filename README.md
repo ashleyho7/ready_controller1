@@ -60,3 +60,4 @@ Inside this folder, create launch/ and then paste in your launchfile:
 
 catkin_make
 roslaunch ready_controller ready_controller_1_docker.launch
+# mazdarx7
